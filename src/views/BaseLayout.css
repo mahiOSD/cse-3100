@@ -1,0 +1,14 @@
+
+.header-bg {
+    background-color: #ebbebe; 
+    color: rgb(31, 25, 25);
+  }
+  
+  .header-bg a {
+    color: rgb(16, 14, 14);
+  }
+  
+  .header-bg a:hover {
+    color: #030303;
+  }
+  

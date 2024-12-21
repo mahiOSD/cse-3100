@@ -1,0 +1,57 @@
+.contact-us-container {
+    border: 2px solid #090a0bd8; 
+    border-radius: 10px; 
+    padding: 20px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+    max-width: 600px; 
+    margin: 0 auto; 
+  }
+  
+  .contact-us-container h2 {
+    color: #21b6be;
+    text-align: center; 
+    font-style:italic; 
+  }
+  
+  .contact-us-container .form-label {
+    font-weight: bold;
+    font-style: italic; 
+    font-size: 16px; 
+  }
+  
+  .contact-us-container .form-control {
+    width: 100%; 
+    padding: 10px; 
+    font-size: 14px; 
+    font-style: italic; 
+    border-radius: 8px; 
+    border: 1px solid #ccc; 
+  }
+  
+  .contact-us-container .form-control[type="text"],
+  .contact-us-container .form-control[type="tel"],
+  .contact-us-container .form-control[type="email"],
+  .contact-us-container .form-control textarea {
+    max-width: 500px; 
+    margin-bottom: 10px; 
+  }
+  
+  .contact-us-container .btn-primary {
+    background-color: #91136d;
+    border-color: #007bff;
+    padding: 8px 16px; 
+    font-style:oblique; 
+    border-radius: 8px; 
+  }
+  
+  .contact-us-container .btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+  }
+  
+  .contact-us-container .text-success {
+    font-size: 14px; 
+    font-style:oblique; 
+    color: #28a745; 
+  }
+  
